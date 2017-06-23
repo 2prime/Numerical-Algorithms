@@ -1,0 +1,98 @@
+function phi=levelset(phi,steps,renstep)
+%% levelset method
+%authorrized by @2pimre
+[m,n,p]=size(phi);
+
+%% preprocessing for picture
+%calculate g
+xi=2:m+1;
+yi=2:n+1;
+B=zeros(m+2,n+2);%image
+B(xi,yi) = phi(:,:,1);
+B(1,yi)= B(2,yi);
+B(end,yi)= B(end-1,yi);
+B(xi,1)= B(xi,2);
+B(xi,end)= B(xi,end-1);
+
+%calculate g(|\nabla I|)
+%where g(s) = 1/(1+s^2)
+g=cal_g(B);
+[dg_x,dg_y,~,~,~] =grad(g);
+
+
+
+%% begin levelset interate
+
+v=zeros(m,n);%level set function
+for i = 1:m
+    for j = 1:n
+        v(i,j) = min([i j m-i n-j])-10;
+    end
+end
+
+% imshow([g dg_x dg_y]);
+
+for iter_time = 1:steps
+    [vx,vy,vxx,vyy,vxy]=grad(v);
+    
+     = ((vx.^2).*vyy+(vy.^2).*vxx-2*vx.*vy.*vxy)./((vx.^2+vy.^2));
+    
+end
+end
+
+function [g]=cal_g(u)
+%% g(u)= 1/ (1+ |grad(u)|^2)
+
+[m,n]=size(u);
+xi=[2:m-1];
+yi=[2:n-1];
+
+uxp=u(xi+1,yi);
+uxm=u(xi-1,yi);
+uyp=u(xi,yi+1);
+uym=u(xi,yi-1);
+
+
+%calculate grad
+duxc=(uxp-uxm)/2;
+duyc=(uyp-uym)/2;
+
+g=1./(1+(duxc.^2+duyc.^2)/2048);
+
+
+end
+
+function [gx,gy,gxx,gyy,gxy]=grad(func)
+%% calculate grad
+    [m,n]=size(func);
+    B=zeros(m+2,n+2);
+    xi=2:m+1;
+    yi=2:n+1;
+    B(xi,yi) = func;
+    B(1,yi)= B(2,yi);
+    B(end,yi)= B(end-1,yi);
+    B(xi,1)= B(xi,2);
+    B(xi,end)= B(xi,end-1);
+    B(1,1)=B(1,2);
+    B(1,end)=B(1,end-1);
+    B(end,end)=B(end-1,end-1);
+    B(end,1)=B(end-1,1);
+    
+    uxp=B(xi+1,yi);
+    uxm=B(xi-1,yi);
+    uyp=B(xi,yi+1);
+    uym=B(xi,yi-1);
+    uc=B(xi,yi);
+    uxpyp=B(xi+1,yi+1);
+    uxpym=B(xi+1,yi-1);
+    uxmyp=B(xi-1,yi+1);
+    uxmym=B(xi-1,yi-1);
+    %calculate grad
+    gx=(uxp-uxm)/2;
+    gy=(uyp-uym)/2;
+    gxx=(uxp+uxm-2*uc)/4;
+    gyy=(uyp+uym-2*uc)/4;
+    gxy=(uxpyp+uxmym-uxpym-uxmyp)/4;
+    
+end
+
