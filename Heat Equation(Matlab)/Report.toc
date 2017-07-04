@@ -1,2 +1,0 @@
-\contentsline {section}{\tocsection {}{1}{}}{1}
-\contentsline {subsection}{\tocsubsection {}{1.1}{}}{1}
