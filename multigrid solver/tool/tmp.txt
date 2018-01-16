@@ -1,0 +1,18 @@
+===================================
+Information Print
+1e-5
+时间已过 10.527487 秒。
+Vector Error:0.0064263
+Function Error:1.68706e-08
+===================================
+Information Print
+1e-3
+时间已过 10.930474 秒。
+Vector Error:0.0064263
+Function Error:1.68706e-08
+===================================
+Information Print
+1
+时间已过 10.587657 秒。
+Vector Error:0.0064263
+Function Error:1.68706e-08

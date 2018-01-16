@@ -1,0 +1,499 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.17)  16 JAN 2018 11:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Report.tex
+(./Report.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2015/03/04 v2.20.2
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert199
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+(c:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks26
+)
+(c:/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count102
+\multirow@dima=\skip52
+\bigstrutjot=\dimen122
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen123
+\Gin@req@width=\dimen124
+)
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+)
+Package caption Info: AMS or SMF document class.
+\c@ContinuedFloat=\count103
+)
+(c:/texlive/2017/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count104
+\c@ALG@rem=\count105
+\c@ALG@nested=\count106
+\ALG@tlm=\skip53
+\ALG@thistlm=\skip54
+\c@ALG@Lnr=\count107
+\c@ALG@blocknr=\count108
+\c@ALG@storecount=\count109
+\c@ALG@tmpcounter=\count110
+\ALG@tmplength=\skip55
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (c:/texlive/2017/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(c:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks27
+\float@box=\box29
+\@float@everytoks=\toks28
+\@floatcapt=\box30
+)
+\@float@every@algorithm=\toks29
+\c@algorithm=\count112
+) (./Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=-0.56833pt
+* \evensidemargin=35.28255pt
+* \topmargin=7.13666pt
+* \headheight=8.0pt
+* \headsep=14.0pt
+* \topskip=10.0pt
+* \footskip=12.0pt
+* \marginparwidth=90.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 11.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen132
+\scratchbox=\box31
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen133
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks31
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ [1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (7.31355pt too wide) in paragraph at lines 151--151
+[] 
+ []
+
+
+Overfull \hbox (318.70158pt too wide) has occurred while \output is active
+ \OT1/cmr/m/n/9 NUMERICAL SCHEME AND HIERARCHICALLY SOLVER FOR ANISOTROPIC POIS
+SON EQUATION WITH FIRST BOUNDARY CONDITION ON SQUARE DOMAIN []
+ []
+
+[3]
+Overfull \hbox (3.47687pt too wide) in paragraph at lines 229--230
+ \OT1/cmr/m/n/12 2.3.1.\OT1/cmr/m/it/12 Subspace cor-rec-tion and sub-space equ
+a-tions.[] \OT1/cmr/m/n/12 For sub-space decomposition$\OML/cmm/m/it/12 V \OT1/
+cmr/m/n/12 =
+ []
+
+[4]
+Overfull \hbox (15.66463pt too wide) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 .(When $\OML/cmm/m/it/12 V \OT1/cmr/m/n/12 = [] \OML/cmm/m/it/1
+2 span\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 e[]\OMS/cmsy/m/n/12 g
+\OT1/cmr/m/n/12 )$, $\OML/cmm/m/it/12 B$ \OT1/cmr/m/n/12 be-comes the sim-plest
+ pre-con-di-tioner $\OML/cmm/m/it/12 diag\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a[];
+ []  ; a[]\OT1/cmr/m/n/12 )$ 
+ []
+
+
+Overfull \hbox (16.5382pt too wide) in paragraph at lines 262--264
+[]\OT1/cmr/bx/n/12 SSC:Successive Sub-space Cor-rec-tion. \OT1/cmr/m/n/12 Sim-i
+-lar to Gauss-Seidel Meth-ods.(When
+ []
+
+
+Overfull \hbox (318.70158pt too wide) has occurred while \output is active
+ \OT1/cmr/m/n/9 NUMERICAL SCHEME AND HIERARCHICALLY SOLVER FOR ANISOTROPIC POIS
+SON EQUATION WITH FIRST BOUNDARY CONDITION ON SQUARE DOMAIN []
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Overfull \hbox (318.70158pt too wide) has occurred while \output is active
+ \OT1/cmr/m/n/9 NUMERICAL SCHEME AND HIERARCHICALLY SOLVER FOR ANISOTROPIC POIS
+SON EQUATION WITH FIRST BOUNDARY CONDITION ON SQUARE DOMAIN []
+ []
+
+[7]
+<solu.jpg, id=41, 843.15pt x 632.3625pt>
+File: solu.jpg Graphic file (type jpg)
+<use solu.jpg>
+Package pdftex.def Info: solu.jpg  used on input line 444. on input line 444.
+Package pdftex.def Info: Requested size: 361.34999pt x 271.01321pt on input lin
+e 444.
+ [8]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 481.
+
+
+Overfull \hbox (318.70158pt too wide) has occurred while \output is active
+ \OT1/cmr/m/n/9 NUMERICAL SCHEME AND HIERARCHICALLY SOLVER FOR ANISOTROPIC POIS
+SON EQUATION WITH FIRST BOUNDARY CONDITION ON SQUARE DOMAIN []
+ []
+
+[9 <./solu.jpg>]
+<plot.jpg, id=48, 843.15pt x 632.3625pt>
+File: plot.jpg Graphic file (type jpg)
+<use plot.jpg>
+Package pdftex.def Info: plot.jpg  used on input line 497. on input line 497.
+Package pdftex.def Info: Requested size: 180.67499pt x 135.50177pt on input lin
+e 497.
+<plot2.jpg, id=49, 843.15pt x 632.3625pt>
+File: plot2.jpg Graphic file (type jpg)
+<use plot2.jpg>
+Package pdftex.def Info: plot2.jpg  used on input line 497. on input line 497.
+Package pdftex.def Info: Requested size: 180.67499pt x 135.50177pt on input lin
+e 497.
+
+Overfull \hbox (2.62871pt too wide) in paragraph at lines 516--517
+[]\OT1/cmr/m/n/12 here $\OML/cmm/m/it/12 A[]$ \OT1/cmr/m/n/12 is a $\OML/cmm/m/
+it/12 n[] \OMS/cmsy/m/n/12 ^^B \OML/cmm/m/it/12 n[]$ \OT1/cmr/m/n/12 sub-matrix
+ and $[] \OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 n$\OT1/cmr/m/n
+/12 . Rewrite $\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 = (\OML/cmm/m/it/12 x[]; x[];
+ []  ; x[]\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 ; b \OT1/cmr/m/n/12 =
+ []
+
+<final.jpg, id=50, 843.15pt x 632.3625pt>
+File: final.jpg Graphic file (type jpg)
+<use final.jpg>
+Package pdftex.def Info: final.jpg  used on input line 526. on input line 526.
+Package pdftex.def Info: Requested size: 256.0748pt x 192.05493pt on input line
+ 526.
+
+Overfull \hbox (62.71712pt too wide) in paragraph at lines 531--547
+ [][] 
+ []
+
+[10 <./plot.jpg> <./plot2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 568--569
+[] \OT1/cmr/m/n/12 A(k+1:min(k+grid[]size,n),k+1:n)=A(k+1:min(k+grid[]size,n),k
++1:n)-
+ []
+
+
+Overfull \hbox (318.70158pt too wide) has occurred while \output is active
+ \OT1/cmr/m/n/9 NUMERICAL SCHEME AND HIERARCHICALLY SOLVER FOR ANISOTROPIC POIS
+SON EQUATION WITH FIRST BOUNDARY CONDITION ON SQUARE DOMAIN []
+ []
+
+[11 <./final.jpg>] [12]
+Overfull \hbox (318.70158pt too wide) has occurred while \output is active
+ \OT1/cmr/m/n/9 NUMERICAL SCHEME AND HIERARCHICALLY SOLVER FOR ANISOTROPIC POIS
+SON EQUATION WITH FIRST BOUNDARY CONDITION ON SQUARE DOMAIN []
+ []
+
+[13] (./Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4832 strings out of 492990
+ 69551 string characters out of 6136334
+ 149879 words of memory out of 5000000
+ 8162 multiletter control sequences out of 15000+600000
+ 11538 words of font info for 45 fonts, out of 8000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 41i,14n,39p,565b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.
+pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/symbols/msam10.pfb>
+Output written on Report.pdf (13 pages, 354120 bytes).
+PDF statistics:
+ 115 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
